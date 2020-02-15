@@ -1,0 +1,19 @@
+.bodybackground {
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.thetitle {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.imagecenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
